@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greeting">Bonjour le monde</string>
+    <string name="app_name">MAD9112 APP1</string>
+    <string name="title">Bonjour Homme</string>
+</resources>
